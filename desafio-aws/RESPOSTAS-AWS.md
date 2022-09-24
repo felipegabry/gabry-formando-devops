@@ -17,7 +17,7 @@ A página web dessa vez não está sendo exibida corretamente. Verifique as **co
 
 #### 2-R = O Security Group atachado na instância estava com o range de portas (81 - 8080) abertos para o endereço (0.0.0.0/1)
 
-<img src="/Prints/2.png"/>
+<img src="/desafio-aws/Prints/2.png"/>
 
 ## 3 - EC2 Access
 
